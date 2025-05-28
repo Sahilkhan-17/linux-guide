@@ -17,4 +17,9 @@ Following topics covered are -
 - Linux system monitoring
 - Basic Networking in Linux
 - Disk and Storage management in Linux
+
+--- 
+
+## Linux Architecture 
+![Linux Architecture](images/linux_architecture.png)
  
